@@ -83,7 +83,7 @@ your code, the browser will display those errors instead.
 We'll start by exploring the JavaScript code for this sample app in the `src`
 directory.
 
-## index.js
+## index.js.
 
 The "entry point" into our application — the first JavaScript code that will run
 when our app starts up — is in the `src/index.js` file. Open that file in your
